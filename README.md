@@ -39,20 +39,20 @@ Senior Software Engineer · Image Sensor · Automotive Systems
 
 <p align="left">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=geniuskey&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&disable_animations=true&cache_seconds=21600"
+       src="https://github-readme-stats.vercel.app/api?username=geniuskey&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&disable_animations=true&cache_seconds=86400"
        alt="GitHub Stats" />
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniuskey&layout=compact&langs_count=8&hide=Jupyter%20Notebook&disable_animations=true&cache_seconds=21600"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniuskey&layout=compact&langs_count=8&hide=Jupyter%20Notebook&disable_animations=true&cache_seconds=86400"
        alt="Top Languages" />
 </p>
 
 <p align="left">
   <img height="190"
-       src="https://streak-stats.demolab.com?user=geniuskey&hide_border=false&mode=daily&cache_seconds=21600"
+       src="https://streak-stats.demolab.com?user=geniuskey&hide_border=false&mode=daily&cache_seconds=86400"
        alt="GitHub Streak" />
 </p>
 
-
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=geniuskey](https://github.com/geniuskey/github-readme-stats)
 ---
 
 ## Contact
