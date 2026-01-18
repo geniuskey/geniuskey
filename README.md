@@ -52,7 +52,7 @@ Senior Software Engineer · Image Sensor · Automotive Systems
        alt="GitHub Streak" />
 </p>
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=geniuskey](https://github.com/geniuskey/github-readme-stats)
+![Euiyun Kim's GitHub stats](https://github-readme-stats-geniuskey.vercel.app/api?username=geniuskey)
 ---
 
 ## Contact
