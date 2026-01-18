@@ -26,26 +26,26 @@ Senior Software Engineer · Image Sensor · Automotive Systems
 <details>
   <summary>More (Deploy / Frontend / Backend / AI / Simulation)</summary>
 
-  **Deploy**  
+  **Deploy**: 
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
   ![Cloudflare%20Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat&logo=cloudflarepages&logoColor=white)
 
-  **Frontend / Apps**  
+  **Frontend**: 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-  **Backend**
+  **Backend**: 
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-  **AI Tools**  
+  **AI Tools**:
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
   ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
   ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
 
-  **Research**  
+  **Research**: 
   ![RCWA](https://img.shields.io/badge/RCWA-Simulation-6A5ACD?style=flat)
   ![Inverse%20Design](https://img.shields.io/badge/Inverse%20Design-Optimization-7C3AED?style=flat)
 
