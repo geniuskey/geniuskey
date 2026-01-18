@@ -39,10 +39,10 @@ Senior Software Engineer · Image Sensor · Automotive Systems
 
 <p align="left">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=geniuskey&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&disable_animations=true&cache_seconds=86400"
+       src="https://github-readme-stats-geniuskey.vercel.app/api?username=geniuskey&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&disable_animations=true&cache_seconds=86400"
        alt="GitHub Stats" />
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniuskey&layout=compact&langs_count=8&hide=Jupyter%20Notebook&disable_animations=true&cache_seconds=86400"
+       src="https://github-readme-stats-geniuskey.vercel.app/api/top-langs/?username=geniuskey&layout=compact&langs_count=8&hide=Jupyter%20Notebook&disable_animations=true&cache_seconds=86400"
        alt="Top Languages" />
 </p>
 
